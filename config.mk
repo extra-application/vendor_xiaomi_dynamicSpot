@@ -1,5 +1,5 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/xiaomi/DynamicSpot
+    vendor/xiaomi/dynamicSpot
 
 PRODUCT_PACKAGES += \
-    DynamicSpot
+    dynamicSpot

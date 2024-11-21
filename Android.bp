@@ -4,7 +4,7 @@ soong_namespace {
 android_app_import {
 	name: "DynamicSpot",
 	owner: "DynamicSpot",
-	apk: "proprietary/system/priv-app/DynamicSpot/DynamicSpot.apk",
+	apk: "proprietary/system/priv-app/dynamicSpot/dynamicSpot.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
